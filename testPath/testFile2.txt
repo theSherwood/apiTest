@@ -1,1 +1,1 @@
-This text has been "put" to github.
+This text has been "put" to github as part of a test.
