@@ -1,1 +1,1 @@
-This is another text file, but this time within a directory.
+This text has been "put" to github.
